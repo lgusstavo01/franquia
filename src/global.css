@@ -1,0 +1,12 @@
+:root {
+    --orange: #FB8104;
+    --orange-hover: #FA6302
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'Poppins', sans-serif;
+}

@@ -1,0 +1,44 @@
+.back{
+    background-color: #ccc;
+    height: auto;
+}
+
+.container {
+    max-width: 80rem;
+
+    margin: 0 auto;
+}
+
+.box {
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    gap: 6rem;
+}
+
+.title{
+   max-width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.8rem;
+    line-height: 2.2rem;
+
+    color: white;
+}
+
+.title span {
+    color: var(--orange);
+}
+
+.infos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+    font-style: italic;
+    font-size: 1.4rem;
+}

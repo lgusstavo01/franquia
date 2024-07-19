@@ -1,0 +1,37 @@
+.container {
+    max-width: 80rem;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+    padding-top: 2rem;
+    font-size: 2rem;
+
+    line-height: 2rem;
+}
+
+.title span {
+    color: var(--orange);
+}
+
+.card {
+    padding: 3rem 0;
+}
+
+.card ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    gap: 5rem;
+}
+
+.card ul li {
+    max-width: 25%;
+    list-style: none;
+
+    border: 1px solid var(--orange);
+    padding: 1rem;
+    border-radius: 8px;
+}

@@ -1,0 +1,17 @@
+.container {
+    max-width: 80rem;
+    margin: 0 auto;
+
+    display: flex;
+    gap: 1rem;
+}
+
+.text h3 {
+    line-height: 1.9rem;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.img img{
+    max-width: 40rem;
+}
