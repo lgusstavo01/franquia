@@ -12,7 +12,7 @@ export function Why() {
           accusantium quam fuga atque quae sit magni ipsam pariatur. Illum,
           fugit saepe! Facere, harum quae! Animi amet libero commodi quam
           molestiae!
-        </p>
+        </p>  
       </div>
       <div className={styles.img}>
         <img src={xmonkey} alt="" />
