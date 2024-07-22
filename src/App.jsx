@@ -1,5 +1,5 @@
-import { About } from "./components/About/About";
 import { Clients } from "./components/Clients/Clients";
+import { Depoimentos } from "./components/Depoimentos/Depoimentos";
 import { Hero } from "./components/Hero/Hero";
 import { Info } from "./components/info/Info";
 import { Investimento } from "./components/Investimento/Investimento";
@@ -19,7 +19,7 @@ export function App() {
       <Training />
       <Clients />
       <Investimento />
-      <About/>
+      <Depoimentos />
     </div>
   );
 }
