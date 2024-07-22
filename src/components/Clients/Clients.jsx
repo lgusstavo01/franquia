@@ -25,9 +25,11 @@ export function Clients() {
           consquistarmos resultados como estes.
         </h4>
       </div>
-      <button className={styles.button}>
-        QUERO CONQUISTAR MEUS PRÓPRIOS CLIENTES
-      </button>
+      <div className={styles.button}>
+        <button>
+          <p>QUERO CONQUISTAR MEUS PRÓPRIOS CLIENTES</p>
+        </button>
+      </div>
     </div>
   );
 }
